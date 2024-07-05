@@ -1,12 +1,16 @@
 #  Image Encryption
 
-The images must be encrypted in such a way that even with arbitrary access to them via the internet, the image must not be decryptable without a secure key. This project would help you delve into the basics of cybersecurity and develop your cryptography skills.
-
++ [Introduction](#intro)
 + [Requirements](#Requirements) 
 + [Execution](#Execution)
 + [Image Encryption](#encryption)
 + [Image Decryption](#decryption)
 + [ Output ](#Output)
+
+
+# Introduction <a name="intro">
+The images must be encrypted in such a way that even with arbitrary access to them via the internet, the image must not be decryptable without a secure key. This project would help you delve into the basics of cybersecurity and develop your cryptography skills.
+
 
 ### Requirements <a name="Requirements"></a>
   1. Python Idle
